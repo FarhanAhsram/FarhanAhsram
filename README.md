@@ -1,6 +1,6 @@
 # FarhanAhsram
 
-Hi, my name is Farhan Marsha. 
+**Hi, my name is Farhan Marsha.**
 <h2> About me </h2>
 <ul>
     <li>Freshgraduate, Jobseeker</li>
